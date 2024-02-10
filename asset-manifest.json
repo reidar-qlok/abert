@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abert/static/css/main.288b4fd8.css",
-    "main.js": "/abert/static/js/main.656361c8.js",
+    "main.js": "/abert/static/js/main.e7d15a29.js",
     "static/js/592.d82137e1.chunk.js": "/abert/static/js/592.d82137e1.chunk.js",
     "index.html": "/abert/index.html",
     "main.288b4fd8.css.map": "/abert/static/css/main.288b4fd8.css.map",
-    "main.656361c8.js.map": "/abert/static/js/main.656361c8.js.map",
+    "main.e7d15a29.js.map": "/abert/static/js/main.e7d15a29.js.map",
     "592.d82137e1.chunk.js.map": "/abert/static/js/592.d82137e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.288b4fd8.css",
-    "static/js/main.656361c8.js"
+    "static/js/main.e7d15a29.js"
   ]
 }
